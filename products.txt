@@ -1,0 +1,4 @@
+{"price": 3, "name": "coffee"}
+{"price": 4, "name": "coffee mug"}
+{"price": 2, "name": "spoon"}
+{"price": 4, "name": "sugar"}
